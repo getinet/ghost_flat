@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: https://getinet.github.io/ghost_flat/sitemap.xml
+Sitemap: /sitemap.xml
 Disallow: /ghost/
 Disallow: /email/
 Disallow: /members/api/comments/counts/
